@@ -1,6 +1,8 @@
 # IOSSwitch
 A Switch Button with smooth animation like iOS7~iOS9
 
+中文文档：[这里](https://github.com/kot32go/IOSSwitch/blob/master/README_zh.md).
+
 ###Screen shot:
 
 ![Screen shot](http://image17-c.poco.cn/mypoco/myphoto/20160414/14/17425403720160414142738071.gif?327x484_110)
