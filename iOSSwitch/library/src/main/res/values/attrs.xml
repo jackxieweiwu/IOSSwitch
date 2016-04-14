@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="IOSSwitch">
+        <attr name="checked" format="reference|boolean" />
+        <attr name="ballColor" format="reference|color" />
+        <attr name="bgColor" format="reference|color" />
+    </declare-styleable>
+</resources>
