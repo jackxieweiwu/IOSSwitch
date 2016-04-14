@@ -5,6 +5,8 @@ A Switch Button with smooth animation like iOS7~iOS9
 
 ![Screen shot](http://image17-c.poco.cn/mypoco/myphoto/20160414/14/17425403720160414142738071.gif?327x484_110)
 
+Picture link:http://image17-c.poco.cn/mypoco/myphoto/20160414/14/17425403720160414142738071.gif?327x484_110
+
 ###How to use
 import the module:library
 
